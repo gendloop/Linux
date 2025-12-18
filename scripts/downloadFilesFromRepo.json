@@ -1,5 +1,5 @@
 {
-    "datas":[
+    "datas": [
         {
             "files": [
                 "Git/Git_Push.bat",
@@ -15,9 +15,7 @@
             "token": ""
         },
         {
-            "files": [
-                ".github/workflows/Release_Version.yml"
-            ],
+            "files": [".github/workflows/Release_Version.yml"],
             "local_dir": "../.github/workflows",
             "user": "gendloop",
             "repo": "release-version",
@@ -26,9 +24,7 @@
             "token": ""
         },
         {
-            "files": [
-                ".github/workflows/Sync_Download.yml"
-            ],
+            "files": [".github/workflows/Sync_Download.yml"],
             "local_dir": "../.github/workflows",
             "user": "gendloop",
             "repo": "sync-download",
@@ -37,9 +33,7 @@
             "token": ""
         },
         {
-            "files": [
-                "GitHubActions/FUNDING.yml"
-            ],
+            "files": ["GitHubActions/FUNDING.yml"],
             "local_dir": "../.github",
             "user": "gendloop",
             "repo": "Tools",

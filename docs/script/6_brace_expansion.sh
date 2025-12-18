@@ -12,6 +12,5 @@ echo $strs
 itvs=$(echo {0..9})
 echo $itvs
 
-itvs2=$(echo {00..09..3}) 
+itvs2=$(echo {00..09..3})
 echo $itvs2
-
